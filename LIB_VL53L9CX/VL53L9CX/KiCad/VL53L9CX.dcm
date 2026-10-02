@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VL53L9CX
+D High-Performance 2.3K-Zone 3D All-in-One LiDAR dToF Sensor, -30C to +70C, 12.8 x 6.1 x 4.6 mm, 1.2 V & 3.3 V, Up to 100 Hz frame rate, 3D room mapping (multizone and multiobject detection), Dual camera stereoscopy assistance thanks to 2D and depth multizone distance measurement at 60 fps
+K
+F https://www.st.com/resource/en/datasheet/vl53l9cx.pdf
+$ENDCMP
+#
+#End Doc Library

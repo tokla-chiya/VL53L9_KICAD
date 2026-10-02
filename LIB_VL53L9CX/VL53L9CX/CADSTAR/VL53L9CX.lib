@@ -1,0 +1,20 @@
+.VL53L9CX :1 ;High-Performance 2.3K-Zone 3D All-in-One LiDAR dToF Sensor, -30C to +70C, 12.8 x 6.1 x 4.6 mm, 1.2 V & 3.3 V, Up to 100 Hz frame rate, 3D room mapping (multizone and multiobject detection), Dual camera stereoscopy assistance thanks to 2D and depth multizone distance measurement at 60 fps
+VL53L9CX
+*STM IC
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=A5 6=A6 7=A7 8=A8 9=A9 10=A10 11=A11 12=A12 13=B1 14=B4 15=B5 16=B6 17=B7 18=B8 19=B9 20=B12 21=C1 22=C12 23=D1 24=D4 25=D5 26=D6 27=D7 28=D8 29=D9 30=D12 31=E1 32=E2 33=E3 34=E4 35=E5 36=E6 37=E7 38=E8 39=E9 40=E10 41=E11 42=E12
+*PLB 1="VSS_1" 2="VSS_DRIVER_1" 3="VSS_DRIVER_2" 4="VSS_2" 5="DATA_P" 6="DATA_N" 7="VSS_3" 8="CLK_P" 9="CLK_N" 10="INTR" 11="SCL" 12="SDA" 13="VBAT_LDD" 14="VSS_4" 15="VSS_5" 16="VSS_6" 17="VSS_7" 18="VSS_8" 19="VSS_9" 20="XSHUT" 21="VSS_10" 22="DVDD" 23="VBAT_RX" 24="VSS_11" 25="VSS_12" 26="VSS_13" 27="VSS_14" 28="VSS_15" 29="VSS_16" 30="SYNC_IN" 31="VSS_17" 32="VSS_18" 33="RSVD1" 34="VSS_19" 35="VSS_20" 36="AVDD_1" 37="AVDD_2" 38="IOVDD" 39="VSS_21" &
+40="VSS_22" 41="AP_CLK" 42="RSVD2"
+*MXP 42
+*DFN VL53L9CX
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (VL53L9CX)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/vl53l9cx.pdf)
+~!Height (4.7mm)
+~!3D_Model (VL53L9CX)
+VL53L9CX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 

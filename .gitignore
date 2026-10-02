@@ -1,0 +1,12 @@
+# Local runtime/tools
+tools/runtime/
+
+# KiCad backups
+*-backups/
+*.bak
+
+# Optional generated output
+output/
+
+# Archives
+*.zip

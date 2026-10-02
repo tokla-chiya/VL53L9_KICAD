@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=VL53L9CX
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=42
+Version=1.9
+Released=2026-06-27 12:30:18
+Downloaded=2026-10-02 03:22:40
+3D=Y
